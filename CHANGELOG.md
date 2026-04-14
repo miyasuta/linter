@@ -1,5 +1,116 @@
 # Changelog
 
+## [1.20.18](https://github.com/UI5/linter/compare/v1.20.17...v1.20.18) (2026-04-02)
+
+
+### Dependencies
+
+* **lockfile:** In-range update of npm dependencies ([7de438b](https://github.com/UI5/linter/commit/7de438ba8df9866dad95cf2f4c3e6d49e24a8e2f))
+
+## [1.20.17](https://github.com/UI5/linter/compare/v1.20.16...v1.20.17) (2026-03-31)
+
+
+### Dependencies
+
+* Bump @sapui5/types from 1.136.14 to 1.136.16 ([#1032](https://github.com/UI5/linter/issues/1032)) ([0b931cd](https://github.com/UI5/linter/commit/0b931cdd3735a2968cdb0139cab9554c875cd734))
+* **lockfile:** In-range update of npm dependencies ([bb22e6d](https://github.com/UI5/linter/commit/bb22e6d117ab1388b4acb55f0646973794d83750))
+* **lockfile:** In-range update of npm dependencies ([e5dad3f](https://github.com/UI5/linter/commit/e5dad3ff7762cc0d8de15af539f1e03f8ac8ca98))
+* **lockfile:** In-range update of npm dependencies ([1e9f986](https://github.com/UI5/linter/commit/1e9f986476a07a4cad5ea186ddd89cf956bcd4e7))
+* **lockfile:** In-range update of npm dependencies ([dedbf2d](https://github.com/UI5/linter/commit/dedbf2da4b5ce0a41d29146e27a4ed46f5585341))
+
+## [1.20.16](https://github.com/UI5/linter/compare/v1.20.15...v1.20.16) (2026-03-25)
+
+
+### Dependencies
+
+* **lockfile:** Cleanup of package.json overrides ([#1030](https://github.com/UI5/linter/issues/1030)) ([3648618](https://github.com/UI5/linter/commit/36486181b07f173a7f49ee47cf9fb0a317734637))
+* **lockfile:** In-range update of npm dependencies ([9fc20da](https://github.com/UI5/linter/commit/9fc20daa482741ff8e64827a288e4b73f89ccfd7))
+
+## [1.20.15](https://github.com/UI5/linter/compare/v1.20.14...v1.20.15) (2026-03-23)
+
+
+### Dependencies
+
+* **lockfile:** In-range update of npm dependencies ([#1027](https://github.com/UI5/linter/issues/1027)) ([5b56052](https://github.com/UI5/linter/commit/5b560524757981e2ab303fa9684317f8b6733e3b))
+
+## [1.20.14](https://github.com/UI5/linter/compare/v1.20.13...v1.20.14) (2026-03-15)
+
+
+### Dependencies
+
+* **lockfile:** In-range update of npm dependencies ([af89955](https://github.com/UI5/linter/commit/af8995542992a574ceadcd84f1b7840d1c5c2aa9))
+* **lockfile:** In-range update of npm dependencies ([2772226](https://github.com/UI5/linter/commit/27722269ac1a6d33e7588c70f7c40270f5c087aa))
+
+## [1.20.13](https://github.com/UI5/linter/compare/v1.20.12...v1.20.13) (2026-03-06)
+
+
+### Dependencies
+
+* Update npm dependencies ([#1021](https://github.com/UI5/linter/issues/1021)) ([9e67cf5](https://github.com/UI5/linter/commit/9e67cf50b2aadad9e45eae6652f79f8b2159eba8))
+
+## [1.20.12](https://github.com/UI5/linter/compare/v1.20.11...v1.20.12) (2026-02-27)
+
+
+### Bug Fixes
+
+* Teststarter false positives detection ([#990](https://github.com/UI5/linter/issues/990)) ([71cb989](https://github.com/UI5/linter/commit/71cb98972154aec5a5e642cc57a11c977c955231))
+
+## [1.20.11](https://github.com/UI5/linter/compare/v1.20.10...v1.20.11) (2026-02-17)
+
+
+### Dependencies
+
+* Bump fast-xml-parser from 5.3.4 to 5.3.5 ([9771c96](https://github.com/UI5/linter/commit/9771c967a2fa4c71ca396506d9ad65495c453e6a))
+* Bump semver from 7.7.3 to 7.7.4 ([77a10e6](https://github.com/UI5/linter/commit/77a10e62a3bca4c0705df32efed222b8eda3e9f5))
+
+## [1.20.10](https://github.com/UI5/linter/compare/v1.20.9...v1.20.10) (2026-02-04)
+
+
+### Dependencies
+
+* Bump minimatch from 10.1.1 to 10.1.2 ([40b3aa5](https://github.com/UI5/linter/commit/40b3aa58fbcd29be4f9e78d5378593689d2f7733))
+
+## [1.20.9](https://github.com/UI5/linter/compare/v1.20.8...v1.20.9) (2026-01-30)
+
+
+### Bug Fixes
+
+* Exclude native JS globals from formatter checks ([#987](https://github.com/UI5/linter/issues/987)) ([6635730](https://github.com/UI5/linter/commit/6635730c48cf35056c43dddd36e9bdd1a279d3cb))
+
+
+### Dependencies
+
+* Bump globals from 17.1.0 to 17.2.0 ([0151997](https://github.com/UI5/linter/commit/015199735300b031eab19f0eeaedca453ce20b20))
+* Bump tar from 7.5.6 to 7.5.7 ([9573892](https://github.com/UI5/linter/commit/95738925478f2b0f5cfc24e403aeecf9568df238))
+
+## [1.20.8](https://github.com/UI5/linter/compare/v1.20.7...v1.20.8) (2026-01-23)
+
+
+### Dependencies
+
+* Bump @sapui5/types from 1.136.13 to 1.136.14 ([6f2ca5c](https://github.com/UI5/linter/commit/6f2ca5cc4b1d3f17d321b3e30eb95f3caec6798c))
+* Bump @ui5/fs from 4.0.3 to 4.0.4 ([60f75a0](https://github.com/UI5/linter/commit/60f75a0b4c78d2f6de40cdbcc1fa60411cce34f1))
+* Bump globals from 16.5.0 to 17.0.0 ([111f926](https://github.com/UI5/linter/commit/111f926c05f6c7bd55357305cec4331c0502fcf8))
+* Bump globals from 17.0.0 to 17.1.0 ([6a044a5](https://github.com/UI5/linter/commit/6a044a548414df10b293cad8066280ec8f80afb1))
+* Bump tar from 6.2.1 to 7.5.6 ([83c6665](https://github.com/UI5/linter/commit/83c666554b06e6db5645cf85a83e52a8ff6eaa51))
+
+## [1.20.7](https://github.com/UI5/linter/compare/v1.20.6...v1.20.7) (2025-12-29)
+
+
+### Dependencies
+
+* Bump @sapui5/types from 1.136.12 to 1.136.13 ([#960](https://github.com/UI5/linter/issues/960)) ([91d5395](https://github.com/UI5/linter/commit/91d53957eea85c7f113bb77c19a4258d4b27f509))
+* Bump fast-xml-parser from 5.3.2 to 5.3.3 ([987defc](https://github.com/UI5/linter/commit/987defc0c702b30517c21c72be9984174c0c9955))
+
+## [1.20.6](https://github.com/UI5/linter/compare/v1.20.5...v1.20.6) (2025-12-07)
+
+
+### Dependencies
+
+* Bump @sapui5/types from 1.136.11 to 1.136.12 ([#947](https://github.com/UI5/linter/issues/947)) ([17ebfc4](https://github.com/UI5/linter/commit/17ebfc486dab53ca8c0a1932cbb3edb2acca58bc))
+* Bump @ui5/project from 4.0.8 to 4.0.9 ([6fce75c](https://github.com/UI5/linter/commit/6fce75c8a0a6febe565d2abfa6b5d6a07c33c0f0))
+* Bump sax-wasm from 3.1.2 to 3.1.3 ([eaa36eb](https://github.com/UI5/linter/commit/eaa36eb867ff00c978fd67fede5e80193abfcc27))
+
 ## [1.20.5](https://github.com/UI5/linter/compare/v1.20.4...v1.20.5) (2025-11-18)
 
 
